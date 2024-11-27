@@ -68,6 +68,9 @@ else:
     color2 = np.random.randint(155, 256, size=(1, 1, 3))
 ```
 
+## Example
+![ExampleOutput](image/4k_fast_noise_gradient_wallpaper.png "Example Output")
+
 ## License
 
 This project is released under the MIT License.
